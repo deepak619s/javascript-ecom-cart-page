@@ -1,5 +1,5 @@
 
-# Javascript Ecommerce Cart Page
+# Javascript Ecom Cart Page
 
 "Your Cart, Your Picks"
 
